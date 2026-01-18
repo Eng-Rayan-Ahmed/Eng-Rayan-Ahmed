@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I love building beautiful, functional, and user-fr
 - **UI/UX design tools** like Figma & Adobe XD  
 
 ### 📫 How to reach me
-- Email: **rayan@example.com**  
-- LinkedIn: [Rayan Ahmed](https://www.linkedin.com/in/rayan-ahmed)  
+- Email: **riyaan473@gmail.com**  
+- LinkedIn: [Rayan Ahmed](https://www.linkedin.com/in/rayaan-ahmed-269858354/)  
 - Twitter: [@RayanDev](https://twitter.com/RayanDev)  
 
 ### 😄 Pronouns
